@@ -14,13 +14,15 @@ E-Typing Fake Bot là một tiện ích mở rộng dành cho trình duyệt Chr
 
 Để cài đặt Bot này vào trình duyệt Chrome, hãy làm theo các bước sau:
 
-1. **Tải mã nguồn:** Tải toàn bộ thư mục dự án này về máy tính của bạn.  
-2. **Mở trình quản lý Extension:** Truy cập địa chỉ `chrome://extensions/` trên trình duyệt Chrome.  
-3. **Bật Developer Mode:** Gạt công tắc **Developer mode** ở góc trên cùng bên phải màn hình.  
-4. **Nạp tiện ích:**
+1. **Tải mã nguồn:** Tải toàn bộ thư mục dự án này về máy tính của bạn.
+   clone về hoặc đang để tag v1 với phiên bản không romaji on còn phiên bản mới đang release là romaji off
+   Thằng nào về gặp bug thì tự thêm vào map rồi kéo pr
+3. **Mở trình quản lý Extension:** Truy cập địa chỉ `chrome://extensions/` trên trình duyệt Chrome.  
+4. **Bật Developer Mode:** Gạt công tắc **Developer mode** ở góc trên cùng bên phải màn hình.  
+5. **Nạp tiện ích:**
    - Nhấn vào nút **Load unpacked** (Tải tiện ích đã giải nén).  
    - Chọn thư mục `E-Typing-Fake-Bot` mà bạn đã tải về ở bước 1.  
-5. **Xác nhận:** Extension mang tên **"E-Typing Silent Bot"** sẽ xuất hiện trong danh sách.  
+6. **Xác nhận:** Extension mang tên **"E-Typing Silent Bot"** sẽ xuất hiện trong danh sách.  
 
 ## Cách sử dụng
 
@@ -40,7 +42,7 @@ E-Typing Fake Bot là một tiện ích mở rộng dành cho trình duyệt Chr
   Bạn PHẢI chuyển Unikey/EVKey sang chế độ gõ Tiếng Anh (**English - chữ E màu xanh**). Nếu để chế độ Tiếng Việt (V), phím bạn bấm sẽ bị bộ gõ can thiệp làm sai lệch mã phím trước khi Bot xử lý, dẫn đến Bot không hoạt động hoặc gõ sai.  
 
 - **Không spam quá nhanh:**  
-  Để kết quả trông giống người thật nhất, hãy gõ với tốc độ vừa phải của bạn và không sợ khi bấm sai. Spam quá nhanh có thể khiến hệ thống nghi ngờ hoặc bài thi bị lỗi kết thúc sớm.  
+  Để kết quả trông giống người thật nhất, hãy gõ với tốc độ vừa phải của bạn và không sợ khi bấm sai. Spam quá nhanh có thể khiến hệ thống nghi ngờ hoặc bài thi bị lỗi kết thúc sớm. đôi khi tắt bằng cách bấm f8 để gõ sai 1 2 kí tự nhé =))))  
 
 
 - **Focus:**  
