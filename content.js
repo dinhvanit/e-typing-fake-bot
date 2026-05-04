@@ -110,6 +110,34 @@
     ["っ", "Q"],
     ["ー", "-"],
     // ae dùng nếu có kí tự nào đặc biệt mà không đọc được thì vào dom mà thêm vào kanaMap hộ, nhớ tạo PR =)))
+    ["ー", "-"],
+    ["ぁ", "XA"],
+    ["ぃ", "XI"],
+    ["ぅ", "XU"],
+    ["ぇ", "XE"],
+    ["ぉ", "XO"],
+    ["ゃ", "XYA"],
+    ["ゅ", "XYU"],
+    ["ょ", "XYO"],
+    ["っ", "XTU"], // small tsu standalone (nếu không theo sau bởi kana)
+
+    // Full-width numbers → half-width
+    ["１", "1"],
+    ["２", "2"],
+    ["３", "3"],
+    ["４", "4"],
+    ["５", "5"],
+    ["６", "6"],
+    ["７", "7"],
+    ["８", "8"],
+    ["９", "9"],
+    ["０", "0"],
+
+    // Full-width symbols hay gặp
+    ["　", " "],
+    ["、", ","],
+    ["。", "."],
+    ["・", "/"],
   ];
 
   function kanaToRomaji(kana) {
