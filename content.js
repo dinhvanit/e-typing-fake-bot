@@ -109,7 +109,15 @@
     ["ぴょ", "PYO"],
     ["っ", "Q"],
     ["ー", "-"],
-    // ae dùng nếu có kí tự nào đặc biệt mà không đọc được thì vào dom mà thêm vào kanaMap hộ, nhớ tạo PR =)))
+
+    ["てぃ", "THI"], 
+    ["でぃ", "DHI"], 
+    ["てゅ", "THU"],
+    ["ふぁ", "FA"],
+    ["ふぃ", "FI"],
+    ["ふぇ", "FE"],
+    ["ふぉ", "FO"],
+    //ae dùng nếu có kí tự nào đặc biệt mà không đọc được thì vào dom mà thêm vào kanaMap hộ, nhớ tạo PR =)))
     ["ー", "-"],
     ["ぁ", "XA"],
     ["ぃ", "XI"],

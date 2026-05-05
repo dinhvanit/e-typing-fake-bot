@@ -43,6 +43,7 @@ E-Typing Fake Bot là một tiện ích mở rộng dành cho trình duyệt Chr
 
 - **Không spam quá nhanh:**  
   Để kết quả trông giống người thật nhất, hãy gõ với tốc độ vừa phải của bạn và không sợ khi bấm sai. Spam quá nhanh có thể khiến hệ thống nghi ngờ hoặc bài thi bị lỗi kết thúc sớm. đôi khi tắt bằng cách bấm f8 để gõ sai 1 2 kí tự nhé =))))  
+  khuyến cáo cứ tầm 26x là A rồi, nhiều nó lộ
 
 
 - **Focus:**  
